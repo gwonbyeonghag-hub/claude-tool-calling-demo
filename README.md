@@ -3,6 +3,9 @@
 Claude API의 **Tool Calling(도구 호출)** 을 써서, 자연어 질문에 답할 때
 필요한 함수(날씨 조회·웹 검색)를 모델이 스스로 골라 부르는 작은 CLI 대화 봇이다.
 
+**▶ 라이브 데모(iMessage 스타일):** https://gwonbyeonghag-hub.github.io/claude-tool-calling-demo/
+키·비용 없이 브라우저에서 Tool Calling 흐름을 바로 볼 수 있다.
+
 > 필수 요건 두 가지를 실제로 충족한다: **(1) LLM API 활용**, **(2) Tool Calling**.
 > 도구는 외부 키 없이 동작하는 mock 함수라, 키만 있으면 데모가 항상 재현된다.
 
